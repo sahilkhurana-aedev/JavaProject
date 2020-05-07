@@ -20,7 +20,6 @@ public class UserSearcHashmap {
 			user.put(userid, email);
 		}
 
-
 	}
 
 	public void printUseridWithEmailArray() {
